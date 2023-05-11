@@ -1,9 +1,9 @@
 
 ![Little about-me!](banner_png.png)
 
-### 👋
+### 
 Hello! I'm Kate, in process of learning to be a QA!
-<font size = 12> About me! </font>
+### About me:
 - 🌱 I’m currently learning: JAVA and picking on 3D Animation
 - 😄 Pronouns || Age : she/her || 27
 - 💬 Ask me about : anything, really! I like to get to know net things and people!
