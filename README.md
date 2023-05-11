@@ -1,5 +1,5 @@
 
-![Little about-me!](https://imgur.com/a/MvMzN6m)
+![Little about-me!](banner_png.png)
 
 ### 👋
 Hello! I'm Kate, in process of learning to be a QA!
