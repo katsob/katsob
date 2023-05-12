@@ -1,5 +1,5 @@
 
-![Little about-me!](banner_png.png)
+![Little about-me!](banner.png)
 
 ### 
 Hello! I'm Kate, in process of learning to maybe becoem QA one day!
