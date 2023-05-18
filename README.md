@@ -18,45 +18,19 @@ To be added-
 ### Studying overview (JAVA & Testing):
 
 <details>
-<summary>| January</summary>
+<summary>| May 2023</summary>
 
-(Actually began my studies mid-January)
+ - EPAM
 
-- ISTQB specifications (started learning the basics)
-
-- I made this account and started learning about GIT and Github as a whole!
-</details>
-<details>
-<summary>| Feburary</summary>
-
-- ISTQB specifications continuation, including:
-
-    - partaking in GoIT 4 day marathon QA testing basics (13.02 - 19.02)
-
-      (basic of bug hunting, writing test cases (using TestRail),writing and completing bug report (using Jira))
-
-- Started EPAM Academy (Computer Science Basics)
-
-- First "Hello World!" in JAVA
-
-</details>
-<details>
-<summary>| March</summary>
-
-- CodeAcademy
-
-        - Started JAVA Basics course (free parts)
+        - Automated testing Basisc in Java (continuation)
 
 - uTest
 
-        - Completed the uTest Academy courses on testing
-
-        - Started on running uTest Academy testing pratice cycles
-         (Introuduction To Testing, Computer Testing)
-
+     - Continuation on uTest pratice cycles
+    (Charles Proxy, Challenge cycles)
 </details>
 <details>
-<summary>| April</summary>
+<summary>| April 2023</summary>
 
  - EPAM
 
@@ -74,17 +48,49 @@ To be added-
 
 </details>
 <details>
-<summary>| May</summary>
+<summary>| March 2023</summary>
 
- - EPAM
+- CodeAcademy
 
-        - Automated testing Basisc in Java (continuation)
+        - Started JAVA Basics course (free parts)
 
 - uTest
 
-     - Continuation on uTest pratice cycles
-    (Charles Proxy, Challenge cycles)
+        - Completed the uTest Academy courses on testing
+
+        - Started on running uTest Academy testing pratice cycles
+         (Introuduction To Testing, Computer Testing)
+
 </details>
+<details>
+<summary>| Feburary 2023</summary>
+
+- ISTQB specifications continuation, including:
+
+    - partaking in GoIT 4 day marathon QA testing basics (13.02 - 19.02)
+
+      (basic of bug hunting, writing test cases (using TestRail),writing and completing bug report (using Jira))
+
+- Started EPAM Academy (Computer Science Basics)
+
+- First "Hello World!" in JAVA
+
+</details>
+
+<details>
+<summary>| January 2023</summary>
+
+(Actually began my studies mid-January)
+
+- ISTQB specifications (started learning the basics)
+
+- I made this account and started learning about GIT and Github as a whole!
+</details>
+
+
+
+
+
 
 
 
