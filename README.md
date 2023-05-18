@@ -52,8 +52,7 @@ To be added-
         - Completed the uTest Academy courses on testing
 
         - Started on running uTest Academy testing pratice cycles
-
-        (Introuduction To Testing, Computer Testing)
+         (Introuduction To Testing, Computer Testing)
 
 </details>
 <details>
@@ -71,7 +70,6 @@ To be added-
 
 - uTest
         - Continuation on uTest pratice cycles
-
         (Computer Testing, Mobile Testing)
 
 </details>
@@ -85,8 +83,7 @@ To be added-
 - uTest
 
      - Continuation on uTest pratice cycles
-
-     (Charles Proxy, Challenge cycles)
+    (Charles Proxy, Challenge cycles)
 </details>
 
 
