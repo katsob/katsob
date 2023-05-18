@@ -19,46 +19,68 @@ To be added-
 
 <details>
 <summary>| January</summary>
-(Actually began my studies mid-January)__
-- ISTQB specifications (started learning the basics)__
-- I made this account and started learning about GIT and Github as a whole!__
+(Actually began my studies mid-January)
+
+- ISTQB specifications (started learning the basics)
+
+- I made this account and started learning about GIT and Github as a whole!
 </details>
 <details>
 <summary>| Feburary</summary>
-- ISTQB specifications continuation, including:__
-    - partaking in GoIT 4 day marathon QA testing basics (13.02 - 19.02)__
-      (basic of bug hunting, writing test cases (using TestRail),writing and completing bug report (using Jira))__
+- ISTQB specifications continuation, including:
 
-- Started EPAM Academy (Computer Science Basics)__
-- First "Hello World!" in JAVA__
+    - partaking in GoIT 4 day marathon QA testing basics (13.02 - 19.02)
+
+      (basic of bug hunting, writing test cases (using TestRail),writing and completing bug report (using Jira))
+
+- Started EPAM Academy (Computer Science Basics)
+
+- First "Hello World!" in JAVA
+
 </details>
 <details>
 <summary>| March</summary>
-    - CodeAcademy__
-        - Started JAVA Basics course (free parts)__
-    - uTest__
-        - Completed the uTest Academy courses on testing__
-        - Started on running uTest Academy testing pratice cycles__
-        (Introuduction To Testing, Computer Testing)__
+    - CodeAcademy
+
+        - Started JAVA Basics course (free parts)
+
+    - uTest
+
+        - Completed the uTest Academy courses on testing
+
+        - Started on running uTest Academy testing pratice cycles
+
+        (Introuduction To Testing, Computer Testing)
+
 </details>
 <details>
 <summary>| April</summary>
-    - EPAM__
-        - Software Development Methologies__
-        - Introduction to Testing__
-        - Version Control with Git__
-        - Automated testing Basisc in Java (began)__
+    - EPAM
+
+        - Software Development Methologies
+
+        - Introduction to Testing
+
+        - Version Control with Git
+
+        - Automated testing Basisc in Java (began)
+
     - uTest
-        - Continuation on uTest pratice cycles__
-        (Computer Testing, Mobile Testing)__
+        - Continuation on uTest pratice cycles
+
+        (Computer Testing, Mobile Testing)
+
 </details>
 
 <summary>| May</summary>
     - EPAM__
-        - Automated testing Basisc in Java (continuation)__
-    - uTest__
-         - Continuation on uTest pratice cycles__
-         (Charles Proxy, Challenge cycles)__
+        - Automated testing Basisc in Java (continuation)
+
+    - uTest
+
+         - Continuation on uTest pratice cycles
+         
+         (Charles Proxy, Challenge cycles)
 </details>
 
 
