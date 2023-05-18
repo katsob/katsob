@@ -40,11 +40,11 @@ To be added-
 </details>
 <details>
 <summary>| March</summary>
-    - CodeAcademy
+- CodeAcademy
 
         - Started JAVA Basics course (free parts)
 
-    - uTest
+- uTest
 
         - Completed the uTest Academy courses on testing
 
@@ -55,7 +55,7 @@ To be added-
 </details>
 <details>
 <summary>| April</summary>
-    - EPAM
+ - EPAM
 
         - Software Development Methologies
 
@@ -65,22 +65,22 @@ To be added-
 
         - Automated testing Basisc in Java (began)
 
-    - uTest
+- uTest
         - Continuation on uTest pratice cycles
 
         (Computer Testing, Mobile Testing)
 
 </details>
-
 <summary>| May</summary>
-    - EPAM__
+ - EPAM
+
         - Automated testing Basisc in Java (continuation)
 
-    - uTest
+- uTest
 
-         - Continuation on uTest pratice cycles
-         
-         (Charles Proxy, Challenge cycles)
+     - Continuation on uTest pratice cycles
+
+     (Charles Proxy, Challenge cycles)
 </details>
 
 
