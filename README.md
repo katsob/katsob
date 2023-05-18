@@ -19,6 +19,7 @@ To be added-
 
 <details>
 <summary>| January</summary>
+
 (Actually began my studies mid-January)
 
 - ISTQB specifications (started learning the basics)
@@ -27,6 +28,7 @@ To be added-
 </details>
 <details>
 <summary>| Feburary</summary>
+
 - ISTQB specifications continuation, including:
 
     - partaking in GoIT 4 day marathon QA testing basics (13.02 - 19.02)
@@ -40,6 +42,7 @@ To be added-
 </details>
 <details>
 <summary>| March</summary>
+
 - CodeAcademy
 
         - Started JAVA Basics course (free parts)
@@ -55,6 +58,7 @@ To be added-
 </details>
 <details>
 <summary>| April</summary>
+
  - EPAM
 
         - Software Development Methologies
@@ -71,7 +75,9 @@ To be added-
         (Computer Testing, Mobile Testing)
 
 </details>
+<details>
 <summary>| May</summary>
+
  - EPAM
 
         - Automated testing Basisc in Java (continuation)
