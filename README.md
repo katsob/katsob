@@ -18,7 +18,7 @@ To be added-
 ### Studying overview (JAVA & Testing):
 
 <details>
-<summary>| May 2023</summary>
+<summary>| Currently, on May 2023  </summary>
 
  - EPAM
 
