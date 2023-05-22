@@ -16,18 +16,18 @@ Hello! I'm Kate, in process of learning to maybe become QA one day!
 To be added-
 
 ### Studying overview (JAVA & Testing):
+Currently:
+- EPAM
 
-<details>
-<summary>| Currently, on May 2023  </summary>
-
- - EPAM
-
-        - Automated testing Basisc in Java (continuation)
+     - Automated testing Basisc in Java (continuation)
 
 - uTest
 
      - Continuation on uTest pratice cycles
     (Charles Proxy, Challenge cycles)
+<details>
+<summary>| May 2023  </summary>
+- To be added
 </details>
 <details>
 <summary>| April 2023</summary>
