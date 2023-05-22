@@ -19,12 +19,12 @@ To be added-
 Currently:
 - EPAM
 
-     - Automated testing Basisc in Java (continuation)
+     - Automated testing Basic in Java (continuation)
 
 - uTest
 
      - Continuation on uTest pratice cycles
-    (Charles Proxy, Challenge cycles)
+     (Charles Proxy, Challenge cycles)
 <details>
 <summary>| May 2023  </summary>
 - To be added
