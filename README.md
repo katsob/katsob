@@ -20,6 +20,7 @@ Currently:
 - EPAM
 
      - Automated testing Basic in Java (continuation)
+        - Learning about and understanding 2D arrays
 
 - uTest
 
