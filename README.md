@@ -18,6 +18,15 @@ To be added-
 ### Studying overview (JAVA & Testing):
 Currently:
 - EPAM
+        - Basic of OOP 
+        (encapsualion, Modifiers, Inheritance)
+<details>
+<summary>| june 2023  </summary>
+TBA
+</details>
+<details>
+<summary>| May 2023  </summary>
+- EPAM
 
      - Automated testing Basic in Java (continuation)
         - Learning about and understanding 2D arrays
@@ -26,9 +35,6 @@ Currently:
 
      - Continuation on uTest pratice cycles
      (Charles Proxy, Challenge cycles)
-<details>
-<summary>| May 2023  </summary>
-- To be added
 </details>
 <details>
 <summary>| April 2023</summary>
