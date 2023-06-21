@@ -21,7 +21,7 @@ Currently:
         - Basic of OOP 
         (encapsualion, Modifiers, Inheritance)
 <details>
-<summary>| june 2023  </summary>
+<summary>| June 2023  </summary>
 TBA
 </details>
 <details>
