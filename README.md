@@ -17,9 +17,12 @@ To be added-
 
 ### Studying overview (JAVA & Testing):
 Currently:
+- Revision of testing methodologies and testing basics
+
 - EPAM
         - Basic of OOP 
         (encapsualion, Modifiers, Inheritance)
+
 <details>
 <summary>| June 2023  </summary>
 TBA
