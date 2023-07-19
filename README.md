@@ -18,6 +18,7 @@ To be added-
 ### Studying overview (JAVA & Testing):
 Currently:
 - Revision of testing methodologies and testing basics
+- Revision on making testing causes, bug reporting 
 
 - EPAM
         - Basic of OOP 
