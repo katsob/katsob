@@ -17,16 +17,17 @@ To be added-
 
 ### Studying overview (JAVA & Testing):
 Currently:
+EPAM:
+- Revision of Java basics (Data types, Conditions and Loops, Arrays and Classes)
+
+<details>
+<summary>| June 2023  </summary>
 - Revision of testing methodologies and testing basics
 - Revision on making testing causes, bug reporting 
 
 - EPAM
         - Basic of OOP 
         (encapsualion, Modifiers, Inheritance)
-
-<details>
-<summary>| June 2023  </summary>
-TBA
 </details>
 <details>
 <summary>| May 2023  </summary>
