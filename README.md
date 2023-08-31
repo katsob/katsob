@@ -17,79 +17,93 @@ To be added-
 
 ### Studying overview (JAVA & Testing):
 Currently:
-EPAM:
-* Working with strings and nested classes
-
+<ul>
+<li>EPAM:</li>
+<ul>
+<li>Working with strings and nested classes</li>
+</ul>
+</ul>
 
 <details>
 <summary>| August 2023  </summary>
-EPAM:
-* Revision of Java basics (Data types, Conditions and Loops, Arrays and Classes)
-* Working with strings and nested classes
+
+<ul>
+<li>EPAM</li>
+<ul>
+<li>Revision of Java basics (Data types, Conditions and Loops, Arrays and Classes)</li>
+<li>Working with strings and nested classes</li>
+</ul>
+</ul>
 
 </details>
 <details>
 <summary>| June 2023  </summary>
-* Revision of testing methodologies and testing basics
-* Revision on making testing causes, bug reporting 
 
-* EPAM
-        - Basic of OOP 
-        (encapsualion, Modifiers, Inheritance)
+<ul>
+<li>Revision of testing methodologies and testing basics<li>
+<li>Revision on making testing causes, bug reporting<li>
+<li>EPAM<li>
+<ul>
+<li> - Basic of OOP 
+        (encapsualion, Modifiers, Inheritance)</li>
+</ul>
+</ul>  
 </details>
 <details>
 <summary>| May 2023  </summary>
-* EPAM
-
-     - Automated testing Basic in Java (continuation)
-     - Learning about and understanding 2D arrays
-
-* uTest
-
-     - Continuation on uTest pratice cycles
-     (Charles Proxy, Challenge cycles)
+<ul>
+<li>EPAM</li>
+<ul>
+<li>Automated testing Basic in Java (continuation)</li>
+<li>Learning about and understanding 2D arrays</li>
+</ul>
+<li>uTest</li>
+<ul>
+<li>Continuation on uTest pratice cycles
+     (Charles Proxy, Challenge cycles)</li>
+</ul>
+</ul>
 </details>
 <details>
 <summary>| April 2023</summary>
-
- * EPAM
-
-        - Software Development Methologies
-
-        - Introduction to Testing
-
-        - Version Control with Git
-
-        - Automated testing Basisc in Java (began)
-
-* uTest
-        - Continuation on uTest pratice cycles
-        (Computer Testing, Mobile Testing)
-
+<ul>
+<li>EPAM</li>
+<ul>
+<li>Software Development Methologies</li>
+<li>Introduction to Testing</li>
+<li>Version Control with Git</li>
+<li>Automated testing Basisc in Java (began)</li>
+</ul>
+<li>uTest</li>
+<ul>
+<li>Continuation on uTest pratice cycles
+        (Computer Testing, Mobile Testing)</li>
+</ul>
+</ul>    
 </details>
 <details>
 <summary>| March 2023</summary>
-
-* CodeAcademy
-
-        - Started JAVA Basics course (free parts)
-
-* uTest
-
-        - Completed the uTest Academy courses on testing
-
-        - Started on running uTest Academy testing pratice cycles
-         (Introuduction To Testing, Computer Testing)
-
+<ul>
+<li>CodeAcademy</li>
+<ul>
+<li>Started JAVA Basics course (free parts)</li>
+</ul>
+<li>uTest</li>
+<ul>
+<li>Completed the uTest Academy courses on testing</li>
+<li>Started on running uTest Academy testing pratice cycles
+         (Introuduction To Testing, Computer Testing)</li>
+</ul>
+</ul>
 </details>
 <details>
 <summary>| Feburary 2023</summary>
 <ul>
 <li>Partaking in GoIT 4 day marathon QA testing basics (13.02 - 19.02)</li>
 <ul>
-<li>basic of bug hunting</li>
-<li>writing test cases (using TestRail)</li>
-<li>writing and completing bug reports (using Jira)</li>
+<li>Basic of bug hunting</li>
+<li>Writing test cases (using TestRail)</li>
+<li>Writing and completing bug reports (using Jira)</li>
 </ul>
 </ul>
 <ul>
