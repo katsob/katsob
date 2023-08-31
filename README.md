@@ -85,10 +85,13 @@ EPAM:
 <details>
 <summary>| Feburary 2023</summary>
 <ul>
-<li>partaking in GoIT 4 day marathon QA testing basics (13.02 - 19.02)</li>
-</p>(basic of bug hunting, writing test cases (using TestRail),writing and completing bug report (using Jira))
+<li>Partaking in GoIT 4 day marathon QA testing basics (13.02 - 19.02)</li>
+<ul>
+<li>basic of bug hunting</li>
+<li>writing test cases (using TestRail)</li>
+<li>writing and completing bug reports (using Jira)</li>
 </ul>
-
+</ul>
 <ul>
 <li>Started EPAM Academy (Computer Science Basics)</li>
 <li>First "Hello World!" in JAVA</li>
@@ -98,9 +101,7 @@ EPAM:
 <details>
 <summary>| January 2023</summary>
 
-
 (Actually began my studies mid-January)
-
 <ul>
 <li>ISTQB specifications (started learning the basics)</li>
 <li>I made this account and started learning about GIT and Github as a whole!</li>
