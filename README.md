@@ -38,14 +38,12 @@ Currently:
 </details>
 <details>
 <summary>| June 2023  </summary>
-
 <ul>
 <li>Revision of testing methodologies and testing basics<li>
 <li>Revision on making testing causes, bug reporting<li>
 <li>EPAM<li>
 <ul>
-<li> - Basic of OOP 
-        (encapsualion, Modifiers, Inheritance)</li>
+<li> Basic of OOP (encapsualion, Modifiers, Inheritance)</li>
 </ul>
 </ul>  
 </details>
