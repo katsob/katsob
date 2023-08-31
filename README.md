@@ -100,11 +100,14 @@ EPAM:
 <details>
 <summary>| January 2023</summary>
 
+
 (Actually began my studies mid-January)
 
-- ISTQB specifications (started learning the basics)
+<ul>
+<li>- ISTQB specifications (started learning the basics)</li>
+<li>- I made this account and started learning about GIT and Github as a whole!</li>
+</ul>
 
-- I made this account and started learning about GIT and Github as a whole!
 </details>
 
 
