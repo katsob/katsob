@@ -18,8 +18,16 @@ To be added-
 ### Studying overview (JAVA & Testing):
 Currently:
 EPAM:
-- Revision of Java basics (Data types, Conditions and Loops, Arrays and Classes)
+- Wroking with strings and nested classes
 
+
+<details>
+<summary>| August 2023  </summary>
+EPAM:
+- Revision of Java basics (Data types, Conditions and Loops, Arrays and Classes)
+- Wroking with strings and nested classes
+
+</details>
 <details>
 <summary>| June 2023  </summary>
 - Revision of testing methodologies and testing basics
