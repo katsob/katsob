@@ -18,33 +18,33 @@ To be added-
 ### Studying overview (JAVA & Testing):
 Currently:
 EPAM:
-- Working with strings and nested classes
+* Working with strings and nested classes
 
 
 <details>
 <summary>| August 2023  </summary>
 EPAM:
-- Revision of Java basics (Data types, Conditions and Loops, Arrays and Classes)
-- Working with strings and nested classes
+* Revision of Java basics (Data types, Conditions and Loops, Arrays and Classes)
+* Working with strings and nested classes
 
 </details>
 <details>
 <summary>| June 2023  </summary>
-- Revision of testing methodologies and testing basics
-- Revision on making testing causes, bug reporting 
+* Revision of testing methodologies and testing basics
+* Revision on making testing causes, bug reporting 
 
-- EPAM
+* EPAM
         - Basic of OOP 
         (encapsualion, Modifiers, Inheritance)
 </details>
 <details>
 <summary>| May 2023  </summary>
-- EPAM
+* EPAM
 
      - Automated testing Basic in Java (continuation)
-        - Learning about and understanding 2D arrays
+     - Learning about and understanding 2D arrays
 
-- uTest
+* uTest
 
      - Continuation on uTest pratice cycles
      (Charles Proxy, Challenge cycles)
@@ -52,7 +52,7 @@ EPAM:
 <details>
 <summary>| April 2023</summary>
 
- - EPAM
+ * EPAM
 
         - Software Development Methologies
 
@@ -62,7 +62,7 @@ EPAM:
 
         - Automated testing Basisc in Java (began)
 
-- uTest
+* uTest
         - Continuation on uTest pratice cycles
         (Computer Testing, Mobile Testing)
 
@@ -70,11 +70,11 @@ EPAM:
 <details>
 <summary>| March 2023</summary>
 
-- CodeAcademy
+* CodeAcademy
 
         - Started JAVA Basics course (free parts)
 
-- uTest
+* uTest
 
         - Completed the uTest Academy courses on testing
 
